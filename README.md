@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Devansh
 - 👀 I’m interested in: Data Analytics, Data Science, Web Dev, & Dev Ops
 - 🌱 I’m currently learning: all of the above!
-- 💞️ I’m looking to collaborate on: all of the above!
+- 🤝 I’m looking to collaborate on: all of the above!
 - 📫 How to reach me: devansh.sharma@auto1.com
 
 <!---
