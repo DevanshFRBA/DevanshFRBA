@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Devansh
+- 👋 Hi, I’m Devansh. I'm a Data Analyst in the French BA team at Auto1 Group
 - 👀 I’m interested in: Data Analytics, Data Science, Web Dev, & Dev Ops
 - 🌱 I’m currently learning: all of the above!
 - 🤝 I’m looking to collaborate on: all of the above!
